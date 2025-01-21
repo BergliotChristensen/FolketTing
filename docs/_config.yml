@@ -1,0 +1,10 @@
+title: My Blog
+description: A minimal markdown blog
+theme: minima
+
+# File: index.md
+---
+layout: home
+---
+
+Welcome to my blog!
